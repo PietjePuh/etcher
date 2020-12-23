@@ -406,6 +406,7 @@ const cssConfig = {
 		index: path.join(__dirname, 'lib', 'gui', 'app', 'css', 'main.css'),
 	},
 	output: {
+		publicPath: '',
 		path: path.join(__dirname, 'generated'),
 	},
 };
