@@ -3,6 +3,16 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+# v1.5.114
+## (2020-12-24)
+
+* Update dependencies [Alexis Svinartchouk]
+* Update @balena/lint to 5.3.0 [Alexis Svinartchouk]
+* Update webpack to v5 [Alexis Svinartchouk]
+* Fix typo in webpack.config.ts comment [Alexis Svinartchouk]
+* docs: fix quote marks [Aaron Shaw]
+* Disable screensaver while flashing (on balena-electron-env) [Alexis Svinartchouk]
+
 # v1.5.113
 ## (2020-12-16)
 
